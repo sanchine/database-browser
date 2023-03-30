@@ -4,7 +4,7 @@ class Database:
     def __init__(self, db_name):
         self.host = "127.0.0.1"
         self.user = "root"
-        self.password = "bb2w19dark228"
+        self.password = "*************"
         self.port = 3306
         self.name = db_name
         self.connection = None
